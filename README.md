@@ -40,7 +40,9 @@ What is ServiceNow:
 ->Application navigator(left)
 ->Main content
 
-List view and Form view
+List view and Form view:
+
+Records:
 
 
 
