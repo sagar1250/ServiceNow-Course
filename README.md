@@ -44,5 +44,14 @@ List view and Form view:
 
 Records:
 
+-> a row in a spread sheet.
+->A single entity
+->Each record has a unique key
+
+<img width="389" height="128" alt="image" src="https://github.com/user-attachments/assets/93392036-8acf-41c1-84ce-b4e24f218549" />
+
+
+
+
 
 
