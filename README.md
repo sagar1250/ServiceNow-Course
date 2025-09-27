@@ -46,11 +46,16 @@ Records:
 
 -> a row in a spread sheet.
 ->A single entity
-->Each record has a unique key
+->Each record has a unique key(In Data Base terminology)
 
 <img width="389" height="128" alt="image" src="https://github.com/user-attachments/assets/93392036-8acf-41c1-84ce-b4e24f218549" />
 
 
+These records are stored in a database table, and each record has a unique ID, which is "sys id"
+
+Example: Sys ID - 32 character of a numeric string
+
+<img width="203" height="11" alt="image" src="https://github.com/user-attachments/assets/d4ac5f98-f3a4-4000-bda6-4423997f28f6" />
 
 
 
