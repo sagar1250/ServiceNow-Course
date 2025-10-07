@@ -60,7 +60,9 @@ Example: Sys ID - 32 character of a numeric string
 ### Lists & Forms
 
 
-#Recently I have completed the ServiceNow exam conducted by Publicis Sapient 
+#Recently I have completed the ServiceNow exam conducted by Publicis Sapient.
+
+Checked with the list forms. gone through basic service request and Incident fields.
 
 
 
